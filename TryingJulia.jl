@@ -1,1 +1,2 @@
-hello
+println("Hello there")
+println("Cool!")
